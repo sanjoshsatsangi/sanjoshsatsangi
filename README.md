@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjosh Satsangi</h1>
 <h3 align="center">A Backend Developer with some skills of web development</h3>
 
-- 🔭 My Latest Work [Tic Tac Toe Game](https://sanjoshgametictactoe.netlify.app/)
+- 🔭 My Latest Work [Task Planner](https://sanjoshtaskplanner.netlify.app/)
 
 - 🌱 I’m currently learning **Front End Development**
 
