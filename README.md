@@ -9,7 +9,7 @@
 
 - 📫 Email me **sanjoshsatsangi@gmail.com**
 
-- 📄 Wanna Know More About Me? Here's My [Resume](https://drive.google.com/file/d/1tVTU-vLsuYUbRVFFqs3Pl1zdJlgPdTPB/view?usp=sharing)
+- 📄 Wanna Know More About Me? Here's My [Portfolio](https://sanjoshportfolio.netlify.app/)
 
 - ⚡ Fun fact **While I was in 2nd year of my degree I Thought of doing MBA:|**
 
