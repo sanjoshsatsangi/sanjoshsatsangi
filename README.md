@@ -2,7 +2,7 @@
 <h3 align="center">A Backend Developer with some skills of web development</h3>
 
 # 💫 About Me:
-🔭 Currently Working on Spotify Clone<br><br>🌱 I’m currently learning Front End Development<br><br>💬 Ask me about Java OOPS<br><br>📫 Email me sanjoshsatsangi@gmail.com<br><br>📄 Wanna Know More About Me? Here's My Portfolio<br><br>⚡ Fun fact While I was in 2nd year of my degree I Thought of doing MBA:|
+🔭 Currently Working as Web Developer<br><br>🌱 I’m currently learning Front End Development<br><br>💬 Ask me about Java OOPS<br><br>📫 Email me sanjoshsatsangi@gmail.com<br><br>📄 Wanna Know More About Me? Here's My Portfolio<br><br>⚡ Fun fact While I was in 2nd year of my degree I Thought of doing MBA:|
 
 
 ## 🌐 Socials:
