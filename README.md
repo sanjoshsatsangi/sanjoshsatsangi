@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjosh Satsangi</h1>
-<h3 align="center">A Backend Developer with some skills of web development</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
 # 💫 About Me:
 🔭 Currently Working as Web Developer<br><br>🌱 I’m currently learning Back-End Development<br><br>💬 Ask me about Java OOPS<br><br>📫 Email me sanjoshsatsangi@gmail.com<br><br>📄 Wanna Know More About Me? Here's My [Portfolio](https://sanjoshportfolio.netlify.app/)<br><br>⚡ Fun fact While I was in 2nd year of my degree I Thought of doing MBA:|
