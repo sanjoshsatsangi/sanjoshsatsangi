@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer</h3>
 
 # 💫 About Me:
-🔭 Currently Working as Front End Developer<br><br>🌱 I’m currently learning APIs<br><br>💬 Ask me about Web Development<br><br>📫 Email me sanjoshsatsangi@gmail.com<br><br>📄 Wanna Know More About Me? Here's My [Portfolio](https://sanjoshportfolio.netlify.app/)<br><br>⚡ Fun fact While I was in 2nd year of my degree I Thought of doing MBA:|
+🔭 Currently Working as Front End Developer<br><br>🌱 I’m currently learning APIs<br><br>💬 Ask me about Data Structures and Algorithm<br><br>📫 Email me sanjoshsatsangi@gmail.com<br><br>📄 Wanna Know More About Me? Here's My [Portfolio](https://sanjoshportfolio.netlify.app/)<br><br>⚡ Fun fact While I was in 2nd year of my degree I Thought of doing MBA:|
 
 
 ## 🌐 Socials:
