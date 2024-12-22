@@ -2,7 +2,7 @@
 <h3 align="center">A Frontend Developer</h3>
 
 # 💫 About Me:
-🔭 Final Year B.Tech Student<br><br>🌱 I’m currently learning Azure<br><br>💬 Ask me about Front End Development<br><br>📫 [Email me] (sanjoshsatsangi@gmail.com) <br><br>📄 Wanna Know More About Me? Here's My [Portfolio](https://sanjoshportfolio.netlify.app/)<br><br>
+🔭 Final Year B.Tech Student<br><br>🌱 I’m currently learning Azure<br><br>💬 Ask me about Front End Development<br><br>📫 [Email me](sanjoshsatsangi@gmail.com) <br><br>📄 Wanna Know More About Me? Here's My [Portfolio](https://sanjoshportfolio.netlify.app/)<br><br>
 
 
 ## 🌐 Socials:
